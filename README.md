@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast alw
 
 I'm a **Civil Engineer** with a strong interest in **Structural Analysis**. I love solving problems, learning new skills.
 
-- 🔭 Currently working on: **[TMD 2D Analysis]**
 - 🌱 Learning: **[python]**
 
 ---
