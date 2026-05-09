@@ -20,4 +20,4 @@ I'm a **Civil Engineer** with a strong interest in **Structural Analysis**. I lo
 
 | Proyectos | Área | Descripción | Desplegar |
 |---|---|---|---|
-| Registro Sísmico | Ingeniería Sísmica | Procesamiento y escalado de acelerogramas |[![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)](https://groundmotionscaling.streamlit.app/) |
+| GroundMotionScaling V 1.0| Ingeniería Sísmica | Procesamiento y escalado de acelerogramas |[![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)](https://groundmotionscaling.streamlit.app/) |
