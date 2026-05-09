@@ -24,4 +24,4 @@ I'm a **Civil Engineer** with a strong interest in **Structural Analysis**. I lo
 
 | Projects | Area | Description | Deploy |
 |---|---|---|---|
-| [GroundMotionScaling V 1.0](https://github.com/FelixNavia1992/GroundMotionScaling)| | Seismic Engineering | Ground motion processing and spectral scaling |[![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)](https://groundmotionscaling.streamlit.app/) |
+| [GroundMotionScaling V 1.0](https://github.com/FelixNavia1992/GroundMotionScaling)|Seismic Engineering | Ground motion processing and spectral scaling |[![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)](https://groundmotionscaling.streamlit.app/) |
